@@ -1,7 +1,7 @@
 # Back-End Java + OpenAI
 1. Actualizar las dependencias Web y OpenAI
 2. Ingresar el apikey en el yml {XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX}
-3. Elegir el modelo que deseamos usar, tener en cuenta los tolents
+3. Elegir el modelo que deseamos usar, tener en cuenta los tokents
    
 ![image](https://github.com/floreschris/Java-Open-AI-Intengration/assets/97532730/5e201ff4-5f7b-4e78-8d18-9f75a45333ee)
 
